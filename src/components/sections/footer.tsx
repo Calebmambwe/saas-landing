@@ -5,28 +5,21 @@ const footerLinks = {
     { label: "Features", href: "#features" },
     { label: "Pricing", href: "#pricing" },
     { label: "Integrations", href: "#features" },
-    { label: "Changelog", href: "#" },
-    { label: "Documentation", href: "#" },
+    { label: "FAQ", href: "#faq" },
   ],
   Company: [
     { label: "About", href: "#" },
-    { label: "Blog", href: "#" },
+    { label: "Testimonials", href: "#testimonials" },
     { label: "Careers", href: "#" },
-    { label: "Press", href: "#" },
-    { label: "Partners", href: "#" },
   ],
   Resources: [
-    { label: "Community", href: "#" },
-    { label: "Help Center", href: "#" },
-    { label: "Templates", href: "#" },
-    { label: "Guides", href: "#" },
-    { label: "Webinars", href: "#" },
+    { label: "FAQ", href: "#faq" },
+    { label: "Help Center", href: "#faq" },
+    { label: "Guides", href: "#features" },
   ],
   Legal: [
     { label: "Privacy", href: "#" },
     { label: "Terms", href: "#" },
-    { label: "Security", href: "#" },
-    { label: "Cookies", href: "#" },
   ],
 };
 
